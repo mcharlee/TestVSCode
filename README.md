@@ -1,4 +1,4 @@
 # TestVSCode
 Test the VS Code Git integration.
 
-I want to check the change from another source.
+Cool the change updates automatically from the remote source.
